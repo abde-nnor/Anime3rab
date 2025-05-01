@@ -1,0 +1,12 @@
+{
+  "name": "Anime3rb",
+  "description": "إضافة أنمي عربية من موقع Anime3rb.com",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "Anime3rb",
+      "url": "https://github.com/USERNAME/REPO_NAME/raw/main/builds/Anime3rb.zip",
+      "version": 1
+    }
+  ]
+}
